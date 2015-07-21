@@ -1,5 +1,0 @@
-design/default app/design/frontend/mytheme 
-skin/default skin/frontend/mytheme
-
-@import import/theme2
-@import import/skin-plugin skin/frontend/mytheme/default/skin/js

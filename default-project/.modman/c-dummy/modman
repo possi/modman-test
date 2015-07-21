@@ -1,0 +1,2 @@
+design app/design/frontend/mytheme
+@shell echo "@shell changes pwd, lets confuse d-subs" > /dev/null
